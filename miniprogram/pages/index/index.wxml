@@ -1,0 +1,3 @@
+<view class="container">
+  <view class="loading">正在加载...</view>
+</view>
